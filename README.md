@@ -1,11 +1,10 @@
-## <h2> 👋Hi there! I'm Radha Gulhane</h2>
-<!-- ## <h2> <img alt="Coding Girl" src="https://raw.githubusercontent.com/RadhaGulhane/RadhaGulhane/main/assets/Hand%20Wave.gif" width='40' align="left"/> Hi there! I'm Radha Gulhane</h2> -->
-
+<!-- ## <h2> 👋Hi there! I'm Radha Gulhane</h2> -->
+<h1><img alt="handwavegif" src="./assets/Hand%20Wave.gif" width='40' align="left"/> Hello There! I'm Radha Gulhane</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;I like to explore new technologies and work on the complex problems. \
-🎓 &nbsp;I have done my undergraduation in Computer Engineering from Vishwakarma Institute of Technology, India. \
+🎓 &nbsp;I have done my undergraduation in Computer Engineering from Vishwakarma Institute of Technology, Pune, India. \
 🎯 &nbsp;Currently, my focus has crystallized towards Artificial Intelligence and Cloud Computing.\
 🎨 &nbsp;Portrait sketching and traveling have been my hobbies that I pursued for a long time.\
 👯 &nbsp;I’m looking to collaborate on open-source projects.\
@@ -13,7 +12,7 @@
 
 ### 🙌 Professional experiences
 
-Initially, I joined [Seagate Technology](https://www.seagate.com/in/en/) as a cloud storage intern in July 2020, and subsequently in July 2021 got promoted to engineer in Cloud Systems.\
+Initially, I joined [Seagate Technology](https://www.seagate.com/in/en/) as a cloud storage intern in July 2020, and subsequently, in July 2021, I got promoted as an engineer in Cloud Systems.\
 🔭 At present, I am working on an exciting project, [CORTX](https://github.com/Seagate/cortx), which is the first open-source distributed object storage.
 Find my work at Seagate and contribution to the CORTX community at [Github profile](https://github.com/RadhaGulhane13).
 

@@ -5,7 +5,7 @@
 
 💡 &nbsp;&nbsp;I like to explore new technologies and work on the complex problems. \
 🎓 &nbsp;I have done my undergraduation in Computer Engineering from Vishwakarma Institute of Technology, Pune, India. \
-🎯 &nbsp;Currently, my focus has crystallized towards Artificial Intelligence and Cloud Computing.\
+🎯 &nbsp;Currently, my focus has crystallized towards Artificial Intelligence, Distributed Systems and Cloud Computing.\
 🎨 &nbsp;Portrait sketching and traveling have been my hobbies that I pursued for a long time.\
 👯 &nbsp;I’m looking to collaborate on open-source projects.\
 📫 &nbsp;You can shoot me an email at radhagulhane789@gmail.com! I regularly check mails.
